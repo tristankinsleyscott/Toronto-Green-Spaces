@@ -1,5 +1,5 @@
 # Toronto Green Spaces
-This program depicts green areas across the City of Toronto using the OpenStreetMap database. The final choropleth map is depicted using Matplotlib. 
+This script depicts green areas across the City of Toronto using the OpenStreetMap database. The final choropleth map is depicted using Matplotlib. 
 
 ## OpenStreetMap Tags
 
